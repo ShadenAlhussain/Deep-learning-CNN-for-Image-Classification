@@ -8,7 +8,7 @@ I will use CIFAR-10 dataset, which consists of 60000 32x32 px colour images in 1
 
 ## Algorithms
 Feature Engineering
-- 1- Convert categorical features to binary dummy variables.
+- Convert categorical features to binary dummy variables.
 
 ## Tools
 - Numpy and Pandas for data manipulation.
