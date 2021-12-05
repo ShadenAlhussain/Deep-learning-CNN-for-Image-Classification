@@ -7,6 +7,7 @@ The goal of this project is to build a deep neural network that can recognize ob
 I will use CIFAR-10 dataset, which consists of 60000 32x32 px colour images in 10 classes.
 
 ## Algorithms
+Feature Engineering
 
 ## Tools
 - Numpy and Pandas for data manipulation.
