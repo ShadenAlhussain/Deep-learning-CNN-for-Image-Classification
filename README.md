@@ -12,7 +12,7 @@ I will use CIFAR-10 dataset, which consists of 60000 32x32 px colour images in 1
 
 
 ## Tools
-Numpy and Pandas for data manipulation.
-Keras, Pytorch and TensorFlow for modeling.
-Matplotlib for visualizations.
+- Numpy and Pandas for data manipulation.
+- Keras, Pytorch and TensorFlow for modeling.
+- Matplotlib for visualizations.
 
