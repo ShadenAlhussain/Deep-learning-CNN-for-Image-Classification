@@ -13,7 +13,7 @@ You can download the CIFAR-10 dataset using this link https://www.cs.toronto.edu
 
 ## Algorithms
 Feature Engineering
-- Convert categorical features to binary variables.
+- Convert categorical features to numerical values
 
 ## Tools
 - Numpy and Pandas for data manipulation.
