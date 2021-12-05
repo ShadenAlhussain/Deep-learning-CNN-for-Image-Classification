@@ -15,6 +15,9 @@ You can download the CIFAR-10 dataset using this link https://www.cs.toronto.edu
 Feature Engineering
 - Convert categorical features to numerical values
 
+![layers](https://user-images.githubusercontent.com/26098936/144759373-c24658cc-3c9a-408e-86cf-046212e9e7eb.png)
+
+
 ## Tools
 - Numpy and Pandas for data manipulation.
 - Keras, Pytorch and TensorFlow for modeling.
