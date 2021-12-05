@@ -1,4 +1,4 @@
-# Project-Proposal
+# Convolutional Neural Networks for Image
 
 ## Design
 The goal of this project is to build a deep neural network that can recognize objects in photographs and to recognize new objects, without the need to retrain the network.
