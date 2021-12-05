@@ -15,7 +15,7 @@ You can download the CIFAR-10 dataset using this link https://www.cs.toronto.edu
 Feature Engineering
 - Convert categorical features to numerical values
 
-<img width="299" alt="layers2" src="https://user-images.githubusercontent.com/26098936/144759510-84704395-4b30-4088-b5e2-8194d6cb66f2.PNG">
+<img width="314" alt="layers2" src="https://user-images.githubusercontent.com/26098936/144759564-8ef4e439-ae00-4309-8497-0bc48d9b3854.PNG">
 
 
 ## Tools
