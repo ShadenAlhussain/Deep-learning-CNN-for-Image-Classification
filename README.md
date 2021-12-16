@@ -27,3 +27,5 @@ The Training dataset consists of 50,000 32X32 color images of 10 different objec
 
 ## Communication
 <img width="413" alt="heatmap" src="https://user-images.githubusercontent.com/26098936/146288587-8d3a0909-c052-4447-b19e-3be702e72a62.PNG">
+
+<img width="484" alt="accu" src="https://user-images.githubusercontent.com/26098936/146288705-50c5238e-eff0-42e6-b6ca-569b4e020171.PNG">
