@@ -25,3 +25,5 @@ The Training dataset consists of 50,000 32X32 color images of 10 different objec
 •	TensorFlow, Keras, Scikit-learn for modeling.
 •	Matplotlib for visualizations.
 
+## Communication
+<img width="413" alt="heatmap" src="https://user-images.githubusercontent.com/26098936/146288587-8d3a0909-c052-4447-b19e-3be702e72a62.PNG">
